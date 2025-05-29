@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gabriel Zubioli
 
 - 🔭 Sou programador FullStack
-- 🌱 Estudando React
+- 🌱 Estudando React e PHP
 - 😄 Pronouns: ele/dele
 
 <div>
