@@ -1,20 +1,18 @@
-## Olá! Eu sou o Gabriel Zubioli
-
+## Olá! Eu sou o Gabriel ZubiolI
 - 🔭 Sou programador FullStack
 - 🌱 Estudando React e PHP
 - 😄 Pronouns: ele/dele
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielZubioli&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=GabrielZubioli&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielZubioli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="147" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=GabrielZubioli&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="147" alt="streak graph"  />
 </div>
-
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielZubioli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=GabrielZubioli&theme=discord&column=3&row=1&margin-w=19&margin-h=10&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielZubioli&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=9&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=GabrielZubioli&theme=dracula&column=3&row=1&margin-w=6&margin-h=10&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
+###
 ###
 
 ###
