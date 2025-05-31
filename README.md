@@ -39,6 +39,4 @@
   <a href="https://www.linkedin.com/in/gabriel-zubioli-94671225a/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>   
 </div>
 
-<img src="https://raw.githubusercontent.com/GabrielZubioli/GabrielZubioli/output/snake.svg" alt="Snake animation" />
-
 ###
