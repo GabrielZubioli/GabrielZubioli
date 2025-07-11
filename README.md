@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Gabriel+Zubioli;I'm+19+years+old;I'm+from+Brazil;I+studying+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielZubioli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=GabrielZubioli&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="147" alt="streak graph"  />
 
-</div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielZubioli&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=9&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=GabrielZubioli&theme=dracula&column=3&row=1&margin-w=6&margin-h=10&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+ <img src="https://github-readme-stats.vercel.app/api?username=GabrielZubioli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielZubioli&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=GabrielZubioli&theme=dracula&column=6&row=1&margin-w=0&margin-h=0&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
