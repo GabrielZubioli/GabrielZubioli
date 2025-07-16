@@ -1,4 +1,34 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Gabriel+Zubioli;I'm+19+years+old;I'm+from+Brazil;I+studying+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
+<h1 align="center">Olá! 👋 Me chamo Gabriel Zubioli</h1>
+
+<p align="center">
+  💻 Sou um desenvolvedor FullStack em constante evolução. Movido pela curiosidade e aprendizado contínuo, aplico tecnologias modernas para criar soluções web eficientes. Tenho facilidade com desafios e foco na melhoria contínua, buscando crescer profissionalmente e contribuir em projetos inovadores<br>
+</p>
+
+---
+
+### 🧠 Sobre mim
+
+- 🔧 Desenvolvedor Web Full Stack
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas
+- 💙 Apaixonado por tecnologia, automação e inovação
+- 🎯 Objetivo: Criar soluções que impactem a vida das pessoas de forma positiva
+
+---
+
+### 📬 Contato
+<div align="left">
+  <a href="https://www.youtube.com/@Zubioli." target="_blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /></a>
+  <a href="https://www.instagram.com/g_zubioli?igsh=cTg3OWZuZ2M0bXBr" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
+ 	<a href="https://www.twitch.tv/gzubioli" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  /></a>
+  <a href = "mailto:zubioligabriel@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/gabriel-zubioli-94671225a/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>  
+</div>
+- 🌐 Portfólio: https://gabrielzubioli.github.io/portifolio/
+
+
+---
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=GabrielZubioli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -27,14 +57,4 @@
    <img align="center" alt="Gui-Epress" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 
   
-</div>
-
-###
-  
-<div align="center">
-  <a href="https://www.youtube.com/@Zubioli." target="_blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /></a>
-  <a href="https://www.instagram.com/g_zubioli?igsh=cTg3OWZuZ2M0bXBr" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
- 	<a href="https://www.twitch.tv/gzubioli" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  /></a>
-  <a href = "mailto:zubioligabriel@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/gabriel-zubioli-94671225a/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>   
 </div>
