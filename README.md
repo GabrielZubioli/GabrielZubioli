@@ -1,17 +1,16 @@
 
 
-<h1 align="center">Olá! 👋 Me chamo Gabriel Zubioli</h1>
+<h1 align="left">🎮 Olá, eu sou o Gabriel Zubioli</h1>
 
-<p align="center">
-  💻 Sou um desenvolvedor FullStack em constante evolução. Movido pela curiosidade e aprendizado contínuo, aplico tecnologias modernas para criar soluções web eficientes. Tenho facilidade com desafios e foco na melhoria contínua, buscando crescer profissionalmente e contribuir em projetos inovadores<br>
+<p align="left">
+Sou um desenvolvedor FullStack em constante evolução. Movido pela curiosidade e aprendizado contínuo, aplico tecnologias modernas para criar soluções web eficientes. Tenho facilidade com desafios e foco na melhoria contínua, buscando crescer profissionalmente e contribuir em projetos inovadores<br>
 </p>
 
----
-
-### 🧠 Sobre mim
+<h2 align="left">Sobre mim</h2>
 
 - 🔧 Desenvolvedor Web Full Stack
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
+- 📚 Estudando Python, Reac, Node.js e desenvolvimento fullstack
 - 💙 Apaixonado por tecnologia, automação e inovação
 - 🎯 Objetivo: Criar soluções que impactem a vida das pessoas de forma positiva
 
