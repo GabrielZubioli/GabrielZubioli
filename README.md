@@ -3,7 +3,7 @@
 <h1 align="left">🎮 Olá, eu sou o Gabriel Zubioli</h1>
 
 <p align="left">
-Sou um desenvolvedor FullStack em constante evolução. Movido pela curiosidade e aprendizado contínuo, aplico tecnologias modernas para criar soluções web eficientes. Tenho facilidade com desafios e foco na melhoria contínua, buscando crescer profissionalmente e contribuir em projetos inovadores<br>
+Sou um Desenvolvedor FullStack em constante evolução. Movido pela curiosidade e aprendizado contínuo, aplico tecnologias modernas para criar soluções web eficientes. Tenho facilidade com desafios e foco na melhoria contínua, buscando crescer profissionalmente e contribuir em projetos inovadores<br>
 </p>
 
 <h2 align="left">Sobre mim</h2>
