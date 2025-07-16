@@ -10,7 +10,7 @@ Sou um Desenvolvedor FullStack em constante evolução. Movido pela curiosidade 
 
 - 🔧 Desenvolvedor Web Full Stack
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
-- 📚 Estudando Python, Reac, Node.js e desenvolvimento fullstack
+- 📚 Estudando Python, React, Node.js e desenvolvimento fullstack
 - 💙 Apaixonado por tecnologia, automação e inovação
 - 🎯 Objetivo: Criar soluções que impactem a vida das pessoas de forma positiva
 
