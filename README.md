@@ -26,16 +26,7 @@ Sou um Desenvolvedor FullStack em constante evolução. Movido pela curiosidade 
 - 🌐 Portfólio: https://gabrielzubioli.github.io/portfolio/
 
 ---
-<h3 align="left">⭐ GitHub Stats</h3>
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=GabrielZubioli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielZubioli&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=GabrielZubioli&theme=dracula&column=6&row=1&margin-w=0&margin-h=0&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
+<h3 align="left">Skills</h3>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Gz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
